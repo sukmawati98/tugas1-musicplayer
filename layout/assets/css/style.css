@@ -1,0 +1,110 @@
+.container {
+	width: 1020px;
+	margin: auto;
+}
+
+.header {
+	margin-bottom: 0px;
+	
+
+}
+
+.menu {
+	padding : 10px;
+	background: #D3D3D3;
+	color: #fff;
+	text-decoration: none;
+	
+}
+
+.menu a {
+	color: darkgreen;
+	border: 2px solid #000;
+	padding: 6px;
+	text-decoration: none;
+	border-radius: 21px;
+}
+
+.menu a:hover {
+	background: teal;
+}
+
+.tambah {
+border: 1px solid #000;
+padding: 4px;
+text-decoration: none;
+border-radius: 7px;
+background-color: teal;
+color: white;
+
+
+}
+
+.tambah:hover {
+	background-color: darkgreen;
+	color: black;
+}
+
+table {
+	margin-top: 10px;
+}
+
+table a{
+	border: 1px solid #darkgreen;
+	padding: 10px;
+	background-color: darkgreen;
+	color: #fff;
+	margin-top: 10px;
+}
+
+table tr{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: darkgreen;
+	color: #fff;
+	margin-top: 10px;
+}
+
+table{
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+}
+
+.edit {
+	text-decoration: none;
+	padding: 7px;
+	border-radius: 7px;
+	background-color: teal;
+}
+
+.delete {
+	text-decoration: none;
+	padding: 5px;
+	border-radius: 7px;
+	background-color: brown;
+}
+
+
+table th{
+	border: 1px solid #white;
+	padding: 10px;
+	background-color: darkgreen;
+	color: #fff;
+	margin-top: 10px;
+}
+}
+
+table td{
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #darkgreen;
+	color: #fff;
+	margin-top: 10px;
+}
+}
+.submit {
+	padding: 5px;
+	border-radius: 15px;
+	background-color: black;
+	color: white
+}
